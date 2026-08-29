@@ -22,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0007-reverse-integer/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
