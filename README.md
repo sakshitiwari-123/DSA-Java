@@ -30,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,8 +43,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
