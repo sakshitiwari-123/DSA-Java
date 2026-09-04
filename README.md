@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0029-divide-two-integers/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
