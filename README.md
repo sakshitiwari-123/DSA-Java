@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
+| [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -72,5 +73,6 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
