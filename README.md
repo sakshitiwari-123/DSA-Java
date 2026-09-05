@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0029-divide-two-integers/) | Medium |
+| [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -75,4 +77,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
