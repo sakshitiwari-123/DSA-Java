@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
