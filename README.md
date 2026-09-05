@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshitiwari-123/DSA-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -38,6 +39,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshitiwari-123/DSA-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
