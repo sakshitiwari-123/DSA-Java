@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -27,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
