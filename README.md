@@ -63,6 +63,7 @@
 | [0006-zigzag-conversion](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,12 +73,14 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +141,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
