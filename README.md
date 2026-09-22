@@ -63,6 +63,7 @@
 | [0006-zigzag-conversion](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
+| [0125-valid-palindrome](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
