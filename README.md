@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0125-valid-palindrome](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
