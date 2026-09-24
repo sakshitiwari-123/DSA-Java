@@ -64,6 +64,7 @@
 | [0006-zigzag-conversion](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0344-reverse-string/) | Easy |
@@ -149,4 +150,12 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
