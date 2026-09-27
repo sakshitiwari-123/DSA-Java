@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshitiwari-123/DSA-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -182,4 +184,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
