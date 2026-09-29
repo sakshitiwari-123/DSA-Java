@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -40,6 +41,7 @@
 | [0069-sqrtx](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -52,6 +54,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
