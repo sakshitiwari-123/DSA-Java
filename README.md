@@ -107,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0010-regular-expression-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +200,8 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
