@@ -167,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sakshitiwari-123/DSA-Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
